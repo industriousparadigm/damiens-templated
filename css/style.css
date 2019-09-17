@@ -1451,3 +1451,9 @@ main {
     stroke-dashoffset: -136px;
   }
 }
+
+.copynotice {
+  position: relative;
+  bottom: 0;
+  font-size: .5rem;
+}
